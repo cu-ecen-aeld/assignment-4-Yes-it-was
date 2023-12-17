@@ -1,3 +1,3 @@
 cd buildroot
 make distclean
-make clean
+#make clean
